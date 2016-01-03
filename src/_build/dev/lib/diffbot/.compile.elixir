@@ -1,0 +1,19 @@
+v1.
+{<<"_build/dev/lib/diffbot/ebin/Elixir.Diffbot.Client.beam">>,
+ 'Elixir.Diffbot.Client',<<"lib/diffbot/client.ex">>,
+ ['Elixir.Kernel.Def','Elixir.Kernel','Elixir.Module','Elixir.Logger',
+  'Elixir.Protocol'],
+ [],[],nil}.
+{<<"_build/dev/lib/diffbot/ebin/Elixir.Diffbot.beam">>,'Elixir.Diffbot',
+ <<"lib/diffbot.ex">>,
+ ['Elixir.Kernel.Typespec','Elixir.HTTPoison.AsyncResponse','Elixir.Kernel',
+  'Elixir.HTTPoison.Base','Elixir.Module','Elixir.Logger',
+  'Elixir.HTTPoison.Error','Elixir.HTTPoison.Response','Elixir.Keyword'],
+ ['Elixir.Enum','Elixir.Access','Elixir.String.Chars',application,
+  'Elixir.ArgumentError','Elixir.URI','Elixir.RuntimeError',erlang],
+ [],nil}.
+{<<"_build/dev/lib/diffbot/ebin/Elixir.Diffbot.Product.beam">>,
+ 'Elixir.Diffbot.Product',<<"lib/diffbot/product.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Logger','Elixir.Diffbot'],
+ ['Elixir.String.Chars'],
+ [],nil}.

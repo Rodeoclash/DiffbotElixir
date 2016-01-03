@@ -1,0 +1,25 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "http://api.diffbot.com/v3/product?url=http%3A%2F%2Fwww.windsorsmith.com.au%2Fblazor-136424&token=1eebb0aac504effe1625023139416128"
+    },
+    "response": {
+      "body": "{\"request\":{\"pageUrl\":\"http://www.windsorsmith.com.au/blazor-136424\",\"api\":\"product\",\"version\":3},\"objects\":[{\"images\":[{\"xpath\":\"/html[1]/body[1]/div[3]/div[2]/div[2]/form[1]/div[3]/div[1]/div[1]/a[1]/img[1]\",\"width\":570,\"naturalHeight\":266,\"diffbotUri\":\"image|3|-728879377\",\"title\":\"Blazor Black/black Mesh\",\"naturalWidth\":570,\"url\":\"http://www.windsorsmith.com.au/media/catalog/product/cache/1/image/570x520/17f82f742ffe127f42dca9de82fb58b1/b/l/blazor-blkmesh-1.jpg\",\"primary\":true,\"height\":266}],\"offerPrice\":\"$119.95\",\"productId\":\"136424\",\"diffbotUri\":\"product|3|-269555040\",\"availability\":true,\"type\":\"product\",\"title\":\"Blazor Black/black Mesh\",\"offerPriceDetails\":{\"symbol\":\"$\",\"amount\":119.95,\"text\":\"$119.95\"},\"breadcrumb\":[{\"link\":\"http://www.windsorsmith.com.au/\",\"name\":\"Home\"}],\"humanLanguage\":\"en\",\"pageUrl\":\"http://www.windsorsmith.com.au/blazor-136424\",\"text\":\"Sneakers are a massive style this season, with Blazor as a part of your wardrobe you will be right on point. Featuring its super comfortable foot bed and phylon sole you can't get any better.\\nFeatures:\\n- Black mesh\\n- Leather lining\\n- Phylon sole\",\"sku\":\"136424\",\"brand\":\"Blazor\"}]}",
+      "headers": {
+        "Server": "nginx/1.6.3",
+        "Date": "Sun, 03 Jan 2016 00:14:23 GMT",
+        "Content-Type": "application/json;charset=utf-8",
+        "Content-Length": "1162",
+        "Connection": "keep-alive",
+        "Access-Control-Allow-Origin": "*"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

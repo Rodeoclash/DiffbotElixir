@@ -1,0 +1,7 @@
+dev:
+  build: ./src/
+  dockerfile: Dockerfile
+  volumes:
+    - ./src:/usr/src/app
+  environment:
+    DIFFBOT_TOKEN: 1eebb0aac504effe1625023139416128

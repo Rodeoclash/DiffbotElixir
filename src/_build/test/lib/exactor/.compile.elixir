@@ -1,0 +1,50 @@
+v1.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Empty.beam">>,
+ 'Elixir.ExActor.Empty',<<"lib/exactor/empty.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor.Helper'],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Behaviour.Tolerant.beam">>,
+ 'Elixir.ExActor.Behaviour.Tolerant',<<"lib/exactor/behaviour/tolerant.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ [],[],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Behaviour.Strict.beam">>,
+ 'Elixir.ExActor.Behaviour.Strict',<<"lib/exactor/behaviour/strict.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ [],[],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Delegator.beam">>,
+ 'Elixir.ExActor.Delegator',<<"lib/exactor/delegator.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.Access','Elixir.String.Chars','Elixir.Enum',erlang],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.GenServer.beam">>,
+ 'Elixir.ExActor.GenServer',<<"lib/exactor/gen_server.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor.Helper'],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Helper.beam">>,
+ 'Elixir.ExActor.Helper',<<"lib/exactor/helper.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor','Elixir.Macro'],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Strict.beam">>,
+ 'Elixir.ExActor.Strict',<<"lib/exactor/strict.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor.Helper'],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Tolerant.beam">>,
+ 'Elixir.ExActor.Tolerant',<<"lib/exactor/tolerant.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor.Helper'],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Responders.beam">>,
+ 'Elixir.ExActor.Responders',<<"lib/exactor/responders.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor.Helper',erlang],
+ [],nil}.
+{<<"/usr/src/app/_build/test/lib/exactor/ebin/Elixir.ExActor.Operations.beam">>,
+ 'Elixir.ExActor.Operations',<<"lib/exactor/operations.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.ExActor.Helper','Elixir.Macro','Elixir.Access','Elixir.Keyword',
+  'Elixir.RuntimeError','Elixir.String.Chars','Elixir.Enum',erlang],
+ [],nil}.

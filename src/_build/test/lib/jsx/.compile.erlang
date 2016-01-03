@@ -1,0 +1,9 @@
+/usr/src/app/_build/test/lib/jsx/ebin/jsx.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_config.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_consult.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_decoder.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_encoder.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_parser.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_to_json.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_to_term.beam
+/usr/src/app/_build/test/lib/jsx/ebin/jsx_verify.beam
